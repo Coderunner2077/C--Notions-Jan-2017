@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483501062 source:c:\users\harry\documents\c++ projects\part i\tableaux\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstddef>
+	<cstring>
+

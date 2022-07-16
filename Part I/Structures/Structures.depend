@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484685377 source:c:\users\harry\documents\c++ projects\part i\structures\main.cpp
+	<iostream>
+	<string>
+	"Sales_data.h"
+
+1484684992 c:\users\harry\documents\c++ projects\part i\structures\sales_data.h
+

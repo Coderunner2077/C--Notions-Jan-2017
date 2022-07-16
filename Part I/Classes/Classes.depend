@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1484705494 source:c:\users\harry\documents\c++ projects\part i\classes\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Sales_data.h"
+	"Person.h"
+	"Screen.h"
+
+1484700084 c:\users\harry\documents\c++ projects\part i\classes\sales_data.h
+
+1484701480 c:\users\harry\documents\c++ projects\part i\classes\person.h
+
+1484706380 c:\users\harry\documents\c++ projects\part i\classes\screen.h
+

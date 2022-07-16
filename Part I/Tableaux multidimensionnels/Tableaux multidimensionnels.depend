@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483582614 source:c:\users\harry\documents\c++ projects\part i\tableaux multidimensionnels\main.cpp
+	<iostream>
+	<vector>
+

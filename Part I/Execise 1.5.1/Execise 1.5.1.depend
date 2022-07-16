@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1482954625 source:c:\users\harry\documents\c++ projects\part i\execise 1.5.1\main.cpp
+	<iostream>
+	"Sales_item.h"
+
+1482953820 c:\users\harry\documents\c++ projects\part i\execise 1.5.1\sales_item.h
+	<iostream>
+	<string>
+

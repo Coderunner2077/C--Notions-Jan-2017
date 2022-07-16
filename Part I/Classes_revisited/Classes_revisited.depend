@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1484779629 source:c:\users\harry\documents\c++ projects\part i\classes_revisited\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Screen.h"
+	"Name_lookup.h"
+	"Exos.h"
+	"Sales_data.h"
+	"static_mem.h"
+
+1484758198 c:\users\harry\documents\c++ projects\part i\classes_revisited\screen.h
+	<vector>
+
+1484754389 c:\users\harry\documents\c++ projects\part i\classes_revisited\name_lookup.h
+
+1484771184 c:\users\harry\documents\c++ projects\part i\classes_revisited\exos.h
+
+1484760810 c:\users\harry\documents\c++ projects\part i\classes_revisited\sales_data.h
+
+1484779874 c:\users\harry\documents\c++ projects\part i\classes_revisited\static_mem.h
+

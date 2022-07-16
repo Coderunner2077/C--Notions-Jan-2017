@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1484003090 source:c:\users\harry\documents\c++ projects\part i\fonctions\functions.cpp
+	"functions.h"
+
+1484009251 source:c:\users\harry\documents\c++ projects\part i\fonctions\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"functions.h"
+	<cctype>
+	<assert.h>
+
+1484009234 c:\users\harry\documents\c++ projects\part i\fonctions\functions.h
+	<string>
+	<vector>
+	<iostream>
+	<cctype>
+	<initializer_list>
+	<stdexcept>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483491588 source:c:\users\harry\documents\c++ projects\part i\iterateurs\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cctype>
+

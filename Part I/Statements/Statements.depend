@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483841188 source:c:\users\harry\documents\c++ projects\part i\statements\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<stdexcept>
+
